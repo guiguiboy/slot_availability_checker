@@ -1,0 +1,18 @@
+[
+	{
+		"storeRef": "51",
+		"service": "PICKING_DRIVE"
+	},
+	{
+		"storeRef": "673",
+		"service": "PICKING_DRIVE"
+	},
+	{
+		"storeRef": "6",
+		"service": "PICKING_DRIVE"
+	},
+	{
+		"storeRef": "6",
+		"service": "HOME_DELIVERY"
+	}
+]
